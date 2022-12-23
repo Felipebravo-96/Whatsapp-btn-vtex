@@ -1,16 +1,28 @@
 📢 Use this project, [contribute](https://github.com/{OrganizationName}/{AppName}) to it or open issues to help evolve it using [Store Discussion](https://github.com/vtex-apps/store-discussion).
 
-# APP NAME
+# Whatsapp-btn
 
-<!-- DOCS-IGNORE:start -->
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-<!-- DOCS-IGNORE:end -->
+## Configuration
 
-Under the app's name, you should explain the topic, giving a **brief description** of its **functionality** in a store when installed.
+### Step 1 
 
-Next, **add media** (either an image of a GIF) with the rendered components, so that users can better understand how the app works in practice. 
+Add to your `manifest.json` the dependency `itgloberspartnercl.whatsapp-button`
+
+### Step 2
+
+To declare this component you must configure the following properties.
+
+### `whatsapp-button` props
+
+| Prop name    | Type            | Description    | Default value                                                                                                                               |
+| ------------ | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | 
+| `phone`      | `string`       | XXXXXXXX         | `XXXXXX`        |
+| `bgcolor`      | `string`       | XXXXXXXX         | `XXXXXX`        |
+| `message`      | `string`       | XXXXXXXX         | `XXXXXX`        |
+| `radius`      | `string`       | XXXXXXXX         | `XXXXXX`        |
+| `icon`      | `string`       | XXXXXXXX         | `XXXXXX`        |
+
+
 
 ![Media Placeholder](https://user-images.githubusercontent.com/52087100/71204177-42ca4f80-227e-11ea-89e6-e92e65370c69.png)
 
