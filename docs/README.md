@@ -18,8 +18,7 @@ To declare this component you must configure the following properties.
 | ------------ | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | 
 | `phone`      | `string`       | the company phone          | `777777777`        |
 | `message`      | `string`       | The message you want to send        | `Rooster Al Hrono`        |
-| `logo`      | `string`       | The link of the whatsapp image you want
-show         | `url`        |
+| `logo`      | `string`       | The link of the whatsapp image you want show         | `url`        |
 
 
 
