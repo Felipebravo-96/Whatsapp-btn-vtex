@@ -16,11 +16,10 @@ To declare this component you must configure the following properties.
 
 | Prop name    | Type            | Description    | Default value                                                                                                                               |
 | ------------ | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | 
-| `phone`      | `string`       | XXXXXXXX         | `XXXXXX`        |
-| `bgcolor`      | `string`       | XXXXXXXX         | `XXXXXX`        |
-| `message`      | `string`       | XXXXXXXX         | `XXXXXX`        |
-| `radius`      | `string`       | XXXXXXXX         | `XXXXXX`        |
-| `icon`      | `string`       | XXXXXXXX         | `XXXXXX`        |
+| `phone`      | `string`       | the company phone          | `777777777`        |
+| `message`      | `string`       | The message you want to send        | `Rooster Al Hrono`        |
+| `logo`      | `string`       | The link of the whatsapp image you want
+show         | `url`        |
 
 
 
